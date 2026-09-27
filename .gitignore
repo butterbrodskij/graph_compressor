@@ -1,4 +1,4 @@
 run
 __pycache__/
 large_example.tsv
-.DS_Store/
+.DS_Store
